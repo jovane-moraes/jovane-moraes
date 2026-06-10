@@ -14,7 +14,7 @@ Tenho experiência prática prévia nas áreas administrativa e de produção/es
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 * **Estudando no momento:** Python (aprendizado contínuo) e Inglês.
-* **Noções em:** Lógica de programação, POO, Pacote Office e sistemas ERP.
+* **Noções em:** Lógica de programação, Pacote Office e sistemas ERP.
 
 ---
 
