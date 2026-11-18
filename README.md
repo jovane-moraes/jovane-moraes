@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Jovane Moraes 👋
 
-<!--
-**jovane-moraes/jovane-moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou construindo software com IA: planejo, dirijo agentes de código, reviso e publico.
 
-Here are some ideas to get you started:
+## 🚀 O que estou aprendendo
+- Prompt e context engineering
+- Agentes de código (Claude Code)
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+https://github.com/jovane-moraes/portfolio-ia.git
+## 📫 Contato
+- LinkedIn:
